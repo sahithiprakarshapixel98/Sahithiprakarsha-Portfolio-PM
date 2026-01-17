@@ -25,6 +25,13 @@ Workflow automation and integration projects built with n8n
 - Automation workflows for various AI-driven use cases
 - Integration examples and best practices
 
+### `/prompt-engineering`
+Curated prompt engineering resources and best practices
+- Collection of high-quality prompts for various use cases
+- Prompt engineering strategies and techniques
+- Reference implementations from the awesome-prompts repository
+- Templates for PM-specific and AI-specific applications
+
 ## 🚀 Key Highlights
 
 - **Hands-on AI Experimentation**: Direct experience with state-of-the-art language models
@@ -63,6 +70,10 @@ I'm always interested in discussing:
 - Building innovative AI-powered products
 
 Feel free to explore the projects and reach out with questions or collaboration opportunities!
+
+   -LinkedIn: https://www.linkedin.com/in/sahithi-prakarsha98asp/
+   -Email:    sahithiprakarsha@gmail.com
+   -Portfolio:https://www.artfolio.tech/sahithiprakarsha
 
 ## 📝 License
 
